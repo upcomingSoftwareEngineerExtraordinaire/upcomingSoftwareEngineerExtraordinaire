@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @upcomingSoftwareEngineerExtraordinaire
-- 👀 I’m interested in Coputer science as a whole.
+- 👀 I’m interested in Computer science as a whole.
 - 🌱 I’m currently learning full-stack/block-chain development
 - 💞️ I’m looking to collaborate on building full-stack apps, smart cotracts and DApps
 - 📫 How to reach me on discord at ➡ Edward🙂#3527 or V.I.A email: edwardgbagi6@gmail.com
